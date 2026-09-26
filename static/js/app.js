@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('.flash').forEach(x=>setTimeout(()=>x.remove(),4500));});
